@@ -14,21 +14,21 @@
 Route::get('/', function () {
     
     return view('pages/home');
-});
+})->name('home');
 
 Route::get('/activity', function () {
     
     return view('pages/activity');
-});
+})->name('activity');
 
 Route::get('/news', function () {
     
     return view('pages/news');
-});
+})->name('news');
 
 Route::get('/contact', function () {
     
     return view('pages/contact');
-});
+})->name('contact');
 
 
