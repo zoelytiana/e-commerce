@@ -1,2 +1,1 @@
-# ecole-lajoie
-à supprimer
+# e-commerce wordpress
